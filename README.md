@@ -1,1 +1,1 @@
-# wow_pbi
+Includes solution to workout wednesday Power-Bi Edition.

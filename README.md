@@ -1,1 +1,1 @@
-Includes solution to workout wednesday Power-Bi Edition.
+Includes solutions to workout wednesday Power-Bi Edition.
